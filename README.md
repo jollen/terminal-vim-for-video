@@ -39,4 +39,4 @@ hi CursorLine   cterm=NONE ctermbg=254 ctermfg=NONE
 
 ## font
 
-Use Source Code Pro from Adobe.
+Use [Source Code Pro](https://github.com/adobe-fonts/source-code-pro) from Adobe.
